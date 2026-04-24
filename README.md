@@ -24,7 +24,7 @@ A Machine Learning web application that predicts the resale price of used cars b
 
 ## 🧠 Model Information
 
-* **Algorithm Used:** (e.g., Linear Regression / Random Forest)
+* **Algorithm Used:** KNeighborsRegressor(KNN-3)
 * **Features Used:**
 
   * Insurance Validity
