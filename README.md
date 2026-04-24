@@ -6,7 +6,7 @@ A Machine Learning web application that predicts the resale price of used cars b
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app]([YOUR_STREAMLIT_LINK_HERE](https://car-price-predictor-metgg6yuj4lmr3jplxfrkv.streamlit.app/))
+👉 [Click here to try the app](https://car-price-predictor-metgg6yuj4lmr3jplxfrkv.streamlit.app/)
 
 ---
 
